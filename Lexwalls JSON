@@ -1664,10 +1664,17 @@
     "collections": "OTHERS,ABSTRACT"
   },
   {
-    "name": "Among Us",
+    "name": "Among Us II",
     "author": "Someone",
     "url": "http://www.mediafire.com/file/vf91hszjews736c/IMG_20201014_074325_633.jpg/file",
     "copyright": "Credits to its creator",
     "collections": "OTHERS"
+  },
+  {
+    "name": "Amoled Chroma",
+    "author": "Someone",
+    "url": "http://www.mediafire.com/file/7c8bbqu99ri9s5x/2_5384067777021609941_chroma51.jpg/file",
+    "copyright": "Credits to its creator",
+    "collections": "AMOLED"
   }
 ]
